@@ -1,0 +1,6 @@
+Calculator in python's tkinter library
+
+In this project , we create a calculator in python , using the tkinter library . The calculator has a nice graphic environment . It can execute
+the simplier operations (+,-,/,*) , as well as more complex ones (exponential , logarithmic operations e.t.c )
+
+Giorgos Michail Konstantakis , Electrical and Computer Engineer , University of Patras , Greece

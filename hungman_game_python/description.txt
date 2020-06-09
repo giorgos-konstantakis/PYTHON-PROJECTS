@@ -1,0 +1,8 @@
+Hungman Game in python's tkinter library
+
+In this project , we developed the Hungman game in python , using the tkinter library . Basically , you must start a new game with the specific button
+and then you must guess the word that randomly is chosen by the algorithm . You specifically must choose letters , and if you guessed right , this letter 
+is placed in the unknown word. You have 2 * letters_of_the_word tries to guess the word , or else you lose . At the end of the game , you press 
+FINISH CURRENT GAME . Have fun !!!
+
+Giorgos Michail Konstantakis , Electrical and Computer Engineer , University of Patras , Greece
